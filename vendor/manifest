@@ -1,0 +1,57 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/calmh/github",
+			"repository": "https://github.com/calmh/github",
+			"revision": "0dae3645d1bdfaf4f466bdd6257965d23896c490",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/microcosm-cc/bluemonday",
+			"repository": "https://github.com/microcosm-cc/bluemonday",
+			"revision": "4ac6f27528d0a3f2a59e0b0a6f6b3ff0bb89fe20",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/russross/blackfriday",
+			"repository": "https://github.com/russross/blackfriday",
+			"revision": "1d6b8e9301e720b08a8938b8c25c018285885438",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/shurcooL/sanitized_anchor_name",
+			"repository": "https://github.com/shurcooL/sanitized_anchor_name",
+			"revision": "10ef21a441db47d8b13ebcc5fd2310f636973c77",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/net/html",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "8e573f4005aa312856df2ea97c32b9beac70dd89",
+			"branch": "master",
+			"path": "/html"
+		},
+		{
+			"importpath": "golang.org/x/net/http2/hpack",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "8e573f4005aa312856df2ea97c32b9beac70dd89",
+			"branch": "master",
+			"path": "/http2/hpack"
+		},
+		{
+			"importpath": "golang.org/x/net/lex/httplex",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "8e573f4005aa312856df2ea97c32b9beac70dd89",
+			"branch": "master",
+			"path": "/lex/httplex"
+		},
+		{
+			"importpath": "golang.org/x/net/route",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "8e573f4005aa312856df2ea97c32b9beac70dd89",
+			"branch": "master",
+			"path": "/route"
+		}
+	]
+}
