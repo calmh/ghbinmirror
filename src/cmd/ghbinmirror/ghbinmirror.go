@@ -19,7 +19,7 @@ func main() {
 	project := "syncthing/syncthing"
 	dir := ""
 
-	flag.IntVar(&downloaders, "-dl", downloaders, "Number of parallel downloads")
+	flag.IntVar(&downloaders, "dl", downloaders, "Number of parallel downloads")
 	flag.StringVar(&project, "project", project, "Project to download")
 	flag.StringVar(&dir, "dir", dir, "Destination directory")
 	flag.Parse()
